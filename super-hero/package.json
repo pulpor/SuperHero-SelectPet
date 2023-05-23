@@ -1,0 +1,20 @@
+{
+  "name": "super-hero",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "dev": "vite --host --open"
+  },
+  "keywords": [
+    "superhero",
+    "super",
+    "hero"
+  ],
+  "author": "leonardo pulpor",
+  "license": "ISC",
+  "dependencies": {
+    "sweetalert2": "^11.7.5",
+    "vite": "^4.3.8"
+  },
+  "description": "projeto feito com base na api superheros"
+}
