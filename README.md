@@ -7,7 +7,7 @@ Este repositório contém dois projetos: "Super Hero" e "Select Pet". Ambos os p
 - HTML
 - CSS
 - JavaScript
-- API SuperHero
+- APIs: SuperHero, dog.ceo, aws.random.cat
 - SweetAlert2
 
 ### Como executar o projeto
